@@ -1,3 +1,4 @@
 # hello-wourld
-My First Github Repo
-I can't believe that this is the time that I chose to learn how to use Github. As long as I've been grabbing source code and programs from here, I should have made an effort much earlier than this. I wonder...
+This repository is for educational purposes. I'm using it as a testbed for new things that I learn.
+
+*Not meant for deployment in any official projects.*
