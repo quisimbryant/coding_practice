@@ -8,8 +8,12 @@ and ends here
 
 package main
  
-import "fmt"
+import (
+"fmt"
+t "time"
+)
 
  func main() {
 	fmt.Println("Hello World")
+	fmt.Println(t.Now())
  }
