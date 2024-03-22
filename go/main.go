@@ -16,4 +16,10 @@ t "time"
  func main() {
 	fmt.Println("Hello World")
 	fmt.Println(t.Now())
+
+	/*
+	'go doc' is used to look
+	at documentation via CLI
+	use this to look at what functions do
+	*/
  }
