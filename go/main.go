@@ -3,23 +3,23 @@
 /*
 this comment
 is on multiple lines
-and ends here
+and end"s here
 */
 
 package main
- 
+
 import (
-"fmt"
-t "time"
+	"fmt"
+	t "time"
 )
 
- func main() {
+func main() {
 	fmt.Println("Hello World")
 	fmt.Println(t.Now())
+}
 
-	/*
+/*
 	'go doc' is used to look
 	at documentation via CLI
 	use this to look at what functions do
-	*/
- }
+*/
